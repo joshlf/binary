@@ -4,10 +4,10 @@ Use of this source code is governed by a BSD-style
 license that can be found in the LICENSE file.
 -->
 
-binary [![Build Status](https://travis-ci.org/joshlf13/binary.svg?branch=master)](https://travis-ci.org/joshlf13/binary)
+binary [![Build Status](https://travis-ci.org/joshlf/binary.svg?branch=master)](https://travis-ci.org/joshlf/binary)
 ======
 
 Binary manipulations in Go
 
-See the [documentation](http://godoc.org/github.com/joshlf13/binary).
+See the [documentation](http://godoc.org/github.com/joshlf/binary).
 
